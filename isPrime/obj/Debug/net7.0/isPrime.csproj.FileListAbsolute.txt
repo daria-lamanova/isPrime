@@ -1,0 +1,15 @@
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/bin/Debug/net7.0/isPrime
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/bin/Debug/net7.0/isPrime.deps.json
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/bin/Debug/net7.0/isPrime.runtimeconfig.json
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/bin/Debug/net7.0/isPrime.dll
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/bin/Debug/net7.0/isPrime.pdb
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.csproj.AssemblyReference.cache
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.AssemblyInfoInputs.cache
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.AssemblyInfo.cs
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.csproj.CoreCompileInputs.cache
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.dll
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/refint/isPrime.dll
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.pdb
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/isPrime.genruntimeconfig.cache
+/Users/darialamanova/projects/pp/06.10.23/isPrime/isPrime/obj/Debug/net7.0/ref/isPrime.dll
